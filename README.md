@@ -8,6 +8,6 @@
 3. Configure /APP/Config/database.php with your preference database.
 4. Configure your UserID and Token VoiceBunny API in /APP/Lib/VoiceBunny/VoiceBunny.php
 
-If you to see the app running just watch http://voicebunny.fabioarias.com
+If you want to see the app running just watch http://voicebunny.fabioarias.com
 
 
